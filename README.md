@@ -1,4 +1,3 @@
 # Programming-Basics
 SoftUni Course
-
-This will make conflict!
+Programs from SoftUni Programming Basics course.This will make conflict!
